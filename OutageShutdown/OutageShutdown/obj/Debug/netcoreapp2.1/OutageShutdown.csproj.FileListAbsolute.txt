@@ -1,0 +1,11 @@
+C:\Users\Yarik\source\repos\OutageShutdown\OutageShutdown\obj\Debug\netcoreapp2.1\OutageShutdown.csproj.CoreCompileInputs.cache
+C:\Users\Yarik\source\repos\OutageShutdown\OutageShutdown\obj\Debug\netcoreapp2.1\OutageShutdown.AssemblyInfoInputs.cache
+C:\Users\Yarik\source\repos\OutageShutdown\OutageShutdown\obj\Debug\netcoreapp2.1\OutageShutdown.AssemblyInfo.cs
+C:\Users\Yarik\source\repos\OutageShutdown\OutageShutdown\bin\Debug\netcoreapp2.1\OutageShutdown.deps.json
+C:\Users\Yarik\source\repos\OutageShutdown\OutageShutdown\bin\Debug\netcoreapp2.1\OutageShutdown.runtimeconfig.json
+C:\Users\Yarik\source\repos\OutageShutdown\OutageShutdown\bin\Debug\netcoreapp2.1\OutageShutdown.runtimeconfig.dev.json
+C:\Users\Yarik\source\repos\OutageShutdown\OutageShutdown\bin\Debug\netcoreapp2.1\OutageShutdown.dll
+C:\Users\Yarik\source\repos\OutageShutdown\OutageShutdown\bin\Debug\netcoreapp2.1\OutageShutdown.pdb
+C:\Users\Yarik\source\repos\OutageShutdown\OutageShutdown\obj\Debug\netcoreapp2.1\OutageShutdown.csprojAssemblyReference.cache
+C:\Users\Yarik\source\repos\OutageShutdown\OutageShutdown\obj\Debug\netcoreapp2.1\OutageShutdown.dll
+C:\Users\Yarik\source\repos\OutageShutdown\OutageShutdown\obj\Debug\netcoreapp2.1\OutageShutdown.pdb
