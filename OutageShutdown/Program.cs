@@ -10,7 +10,7 @@ namespace OutageShutdown
     {
         static string targetip = "192.168.1.30";
         static int howmuchping = 5;
-        static int waitperping = 15000;
+        static int waitperping = 10000;
 
         static void Main()
         {
@@ -28,7 +28,7 @@ namespace OutageShutdown
             if (failedpings >= howmuchping)
             {
                 Console.WriteLine("SHUTTING DOWN");
-                //Process.Start("shutdown", "/p");
+                Process.Start("shutdown", "/p");
             }
 
             Console.WriteLine("DONE " + failedpings);
