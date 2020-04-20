@@ -1,0 +1,7 @@
+C:\Users\Yarik\Documents\GitHub\OutageShutdown\OutageShutdown\bin\Debug\OutageShutdown.exe.config
+C:\Users\Yarik\Documents\GitHub\OutageShutdown\OutageShutdown\bin\Debug\OutageShutdown.exe
+C:\Users\Yarik\Documents\GitHub\OutageShutdown\OutageShutdown\bin\Debug\OutageShutdown.pdb
+C:\Users\Yarik\Documents\GitHub\OutageShutdown\OutageShutdown\obj\Debug\OutageShutdown.csprojAssemblyReference.cache
+C:\Users\Yarik\Documents\GitHub\OutageShutdown\OutageShutdown\obj\Debug\OutageShutdown.csproj.CoreCompileInputs.cache
+C:\Users\Yarik\Documents\GitHub\OutageShutdown\OutageShutdown\obj\Debug\OutageShutdown.exe
+C:\Users\Yarik\Documents\GitHub\OutageShutdown\OutageShutdown\obj\Debug\OutageShutdown.pdb
