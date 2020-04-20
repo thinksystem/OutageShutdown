@@ -28,7 +28,8 @@ namespace OutageShutdown
             if (failedpings >= howmuchping)
             {
                 Console.WriteLine("SHUTTING DOWN");
-                Process.Start("shutdown", "/p");
+                //Process.Start("shutdown", "/p"); uncomment for windows
+                Process.Start("sudo shutdown now");
             }
 
             Console.WriteLine("DONE " + failedpings);
