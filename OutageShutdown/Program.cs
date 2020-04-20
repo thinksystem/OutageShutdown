@@ -28,13 +28,13 @@ namespace OutageShutdown
             if (failedpings >= howmuchping)
             {
                 Console.WriteLine("POWER OUTAGE SHUTTING DOWN NOW");
-                Process.Start("shutdown", "/p");
-                Process.Start("shutdown now");
-                Process.Start("sudo shutdown now");
+                Process.Start("shutdown", "/p"); // for windows
+                Process.Start("/sbin/shutdown ","-h now"); // for linux
+                Process.Start("/usr/bin/sudo", "/sbin/shutdown -h now"); // for linux with sudo
             }
 
             Console.WriteLine("DONE " + failedpings);
-            Console.ReadLine();
+            //Console.ReadLine();
         }
         static bool SendPing(string ip)
         {
